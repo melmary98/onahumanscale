@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+        <pattern>Hello</pattern>
+        <template>Welcome to On a Human Scale chatbot</template>
+    </category>
+    <category>
+        <pattern>Hi</pattern>
+        <template>Welcome to On a Human Scale chatbot</template>
+    </category>
+    <category>
+        <pattern>How are you</pattern>
+        <template>I'm glad to give you information about On a Human scale OHS</template>
+    </category>
+</aiml>

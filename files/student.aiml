@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	 <category>
+        <pattern>Who can be admitted to OHS</pattern>
+        <template>Migrants people can be admitted by the institution when they have a residence permit or when they submit a file. Resident migrants having difficulty accessing employment and training and integrating in France.</template>
+    </category>
+    <category>
+        <pattern>student</pattern>
+        <template>Migrants people can be admitted by the institution when they have a residence permit or when they submit a file. Resident migrants having difficulty accessing employment and training and integrating in France.</template>
+    </category>
+</aiml>

@@ -4,30 +4,11 @@
       <pattern>*</pattern>
       <template>I have no answer for that. Please ask question about the institution On a Human scale.</template>
     </category>
-    <category>
-        <pattern>What is On a Human Scale </pattern>
-        <template>On a Human scale is an institution to help migrants to settle in France</template>
-    </category>
-    <category>
-        <pattern>Where is the institution located</pattern>
-        <template>The institution is located in Lyon, and we also develop mobil units.</template>
-    </category>
-    <category>
-        <pattern>Who can be admitted to OHS</pattern>
-        <template>Migrants people can be admitted by the institution when they have a residence permit or when they submit a file. Resident migrants having difficulty accessing employment and training and integrating in France.</template>
-    </category>
-    <category>
-        <pattern>What *</pattern>
-        <template>On a Human scale is an institution to help migrants to settle in France</template>
-    </category>
-    <category>
-        <pattern>What is your phone number</pattern>
-        <template>The phone number is 123456789</template>
-    </category>
-    <category>
-        <pattern>what * phone *</pattern>
-        <template>The phone number is 123456789</template>
-    </category>
+    
+    
+    
+    
+    
     <category>
         <pattern>What is the institution's philosophy</pattern>
         <template>Take time to know who you are and what you want to succeed in your project</template>

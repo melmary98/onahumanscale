@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+        <pattern>Is the training path flexible</pattern>
+        <template>The schedule is flexible according to your availability, the training path is flexible.</template>
+    </category>
+    <category>
+        <pattern>* path *</pattern>
+        <template>The schedule is flexible according to your availability, the training path is flexible.
+            <image>
+                https://image.shutterstock.com/image-vector/vector-illustration-education-elements-260nw-1242560170.jpg
+            </image>
+        </template>
+    </category>
+</aiml>
