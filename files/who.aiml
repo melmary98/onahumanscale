@@ -3,17 +3,57 @@
     
     <category>
         <pattern>who * staff *</pattern>
-        <template>In the institution, we have multidisciplinary team, whith teachers, nurses,  educator, psychologist, and different collaborators </template>
+        <template>In the institution, we have multidisciplinary team, whith teachers, nurses, educator, psychologist, and different collaborators </template>
+    </category>
+    
+    <category>
+        <pattern>staff</pattern>
+        <template>In the institution, we have multidisciplinary team, whith teachers, nurses, educator, psychologist, and different collaborators </template>
+    </category>
+    
+    <category>
+        <pattern>who</pattern>
+        <template>
+            Migrants people can be admitted by the institution when they have a residence permit or when they sumit a file.
+            Resident migrants having difficulty accessing employment and training and integrating in France.
+            In the institution, we have multidisciplinary team, whith teachers, nurses, educator, psychologist, and different collaborators
+        </template>
+    </category>
+    
+    <category>
+        <pattern>human</pattern>
+        <template>
+            Migrants people can be admitted by the institution when they have a residence permit or when they sumit a file.
+            Resident migrants having difficulty accessing employment and training and integrating in France.
+            In the institution, we have multidisciplinary team, whith teachers, nurses, educator, psychologist, and different collaborators
+        </template>
     </category>
     
     <category>
         <pattern>* professional *</pattern>
-        <template>In the institution, we have multidisciplinary team, whith teachers, nurses,  educator, psychologist, and different collaborators </template>
+        <template>In the institution, we have multidisciplinary team, whith teachers, nurses, educator, psychologist, and different collaborators </template>
     </category>
     
     <category>
         <pattern>* profession *</pattern>
-        <template>In the institution, we have multidisciplinary team, whith teachers, nurses,  educator, psychologist, and different collaborators</template>            
+        <template>In the institution, we have multidisciplinary team, whith teachers, nurses, educator, psychologist, and different collaborators</template>            
+    </category>
+    
+    <category>
+        <pattern>Team</pattern>
+        <template>
+            In the institution, we have multidisciplinary team, whith teachers, nurses, educator, psychologist, and different collaborators
+        </template>            
+    </category>
+    
+    <category>
+        <pattern>Migrants</pattern>
+        <template>Migrants people can be admitted by the institution when they have a residence permit or when they sumit a file.Resident migrants having difficulty accessing employment and training and integrating in France.</template>
+    </category>
+    
+    <category>
+        <pattern>Public</pattern>
+        <template>Migrants people can be admitted by the institution when they have a residence permit or when they sumit a file.Resident migrants having difficulty accessing employment and training and integrating in France.</template>
     </category>
     
     <category>

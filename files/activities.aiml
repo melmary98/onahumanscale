@@ -4,12 +4,24 @@
         <pattern>Is the training path flexible</pattern>
         <template>The schedule is flexible according to your availability, the training path is flexible.</template>
     </category>
+    
     <category>
-        <pattern>* path *</pattern>
+        <pattern>Is the training path flexible</pattern>
+        <template>The schedule is flexible according to your availability, the training path is flexible.</template>
+    </category>
+    
+    <category>
+        <pattern>activities</pattern>
+        <template>we can propose differents workshops language and learning skills, psychology, well-being and motivation, social support </template>
+    </category>
+    
+    <category>
+        <pattern>path</pattern>
         <template>The schedule is flexible according to your availability, the training path is flexible.
             <image>
 https://1.bp.blogspot.com/-wBoWBMMxj3k/XYhLiZAzm5I/AAAAAAAAv84/QnNwQ8vfzUU4FXOzVJSVLYjsbZU7-oDoACLcBGAsYHQ/s1600/20190606_123657.jpg
             </image>
         </template>
     </category>
+    
 </aiml>

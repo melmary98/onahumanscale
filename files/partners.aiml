@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+        <pattern>Who are your partnership</pattern>
+        <template>We have different partnership, some company who give money, orther who can welcome migrants in intership</template>
+    </category>
+    
+    <category>
+        <pattern>partnership</pattern>
+        <template>We have different partnership, some company who give money, orther who can welcome migrants in intership</template>
+    </category>
+    
+    <category>
+        <pattern>partners</pattern>
+        <template>We have different partnership, some company who give money, orther who can welcome migrants in intership</template>
+    </category>
+</aiml>

@@ -4,24 +4,64 @@
         <pattern>What is On a Human Scale </pattern>
         <template>On a Human scale is an institution to help migrants to settle in France</template>
     </category>
+    
+    <category>
+        <pattern>Human Scale </pattern>
+        <template>On a Human scale is an institution to help migrants to settle in France</template>
+    </category>
+    
     <category>
         <pattern>What *</pattern>
         <template>On a Human scale is an institution to help migrants to settle in France</template>
     </category>
+    
+    <category>
+        <pattern>What</pattern>
+        <template>On a Human scale is an institution to help migrants to settle in France</template>
+    </category>
+    
     <category>
         <pattern>What is your phone number</pattern>
         <template>The phone number is 123456789</template>
     </category>
+    
     <category>
-        <pattern>what * phone *</pattern>
+        <pattern>phone</pattern>
         <template>The phone number is 123456789</template>
     </category>
+    
+    <category>
+        <pattern>phone *</pattern>
+        <template>The phone number is 123456789</template>
+    </category>
+    
     <category>
         <pattern>Where is the institution located</pattern>
         <template>The institution is located in Lyon, and we also develop mobil units.</template>
     </category>
+    
+    <category>
+        <pattern>where</pattern>
+        <template>The institution is located in Lyon, and we also develop mobil units.</template>
+    </category>
+    
+    <category>
+        <pattern>where *</pattern>
+        <template>The institution is located in Lyon, and we also develop mobil units.</template>
+    </category>
+    
     <category>
         <pattern>address</pattern>
+        <template>The institution is located in Lyon, and we also develop mobil units.</template>
+    </category>
+    
+    <category>
+        <pattern>place</pattern>
+        <template>The institution is located in Lyon, and we also develop mobil units.</template>
+    </category>
+    
+    <category>
+        <pattern>location</pattern>
         <template>The institution is located in Lyon, and we also develop mobil units.</template>
     </category>
 </aiml>
