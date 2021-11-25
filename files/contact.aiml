@@ -64,4 +64,24 @@
         <pattern>location</pattern>
         <template>The institution is located in Lyon, and we also develop mobil units.</template>
     </category>
+    
+    <category>
+        <pattern>what are the opening hours</pattern>
+        <template>the daytime reception is open from 9 a.m. to 12 p.m., and from 2 p.m. to 6 p.m</template>
+    </category>
+    
+    <category>
+        <pattern>opening hours</pattern>
+        <template>the daytime reception is open from 9 a.m. to 12 p.m., and from 2 p.m. to 6 p.m</template>
+    </category>
+    
+    <category>
+        <pattern>open</pattern>
+        <template>the daytime reception is open from 9 a.m. to 12 p.m., and from 2 p.m. to 6 p.m</template>
+    </category>
+    
+    <category>
+        <pattern>reception</pattern>
+        <template>the daytime reception is open from 9 a.m. to 12 p.m., and from 2 p.m. to 6 p.m</template>
+    </category>
 </aiml>

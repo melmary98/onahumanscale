@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+        <pattern>how many *</pattern>
+        <template>In the institution, we can follow about 40 migrants per year </template>
+    </category>
+    
+    <category>
+        <pattern>how many</pattern>
+        <template>In the institution, we can follow about 40 migrants per year </template>
+    </category>
+    
+</aiml>
