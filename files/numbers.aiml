@@ -10,4 +10,9 @@
         <template>In the institution, we can follow about 40 migrants per year </template>
     </category>
     
+    <category>
+        <pattern>how long</pattern>
+        <template>In the institution, we can follow people during a year</template>
+    </category>
+    
 </aiml>

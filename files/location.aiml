@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+        <pattern>where</pattern>
+        <template>The institution is located in Lyon, and we also develop mobil units.</template>
+    </category>
+        <category>
+        <pattern>Where *</pattern>
+        <template><srai>Where</srai></template>
+    </category>
+        <category>
+        <pattern>_ where *</pattern>
+        <template><srai>Where</srai></template>
+    </category>
+    
+    <category>
+        <pattern>address</pattern>
+        <template><srai>Where</srai></template>
+    </category>
+   <category>
+        <pattern>_ address</pattern>
+        <template><srai>Where</srai></template>
+    </category>
+    <category>
+        <pattern>_ address *</pattern>
+        <template><srai>Where</srai></template>
+    </category>
+    
+    <category>
+        <pattern>place</pattern>
+        <template><srai>Where</srai></template>
+    </category>
+    <category>
+        <pattern>_ place</pattern>
+        <template><srai>Where</srai></template>
+    </category>
+    <category>
+        <pattern>_ place *</pattern>
+        <template><srai>Where</srai></template>
+    </category>
+    
+    <category>
+        <pattern>location</pattern>
+        <template><srai>Where</srai></template>
+    </category>
+    <category>
+        <pattern>_ location</pattern>
+        <template><srai>Where</srai></template>
+    </category>
+    <category>
+        <pattern>_ location *</pattern>
+        <template><srai>Where</srai></template>
+    </category>
+    
+</aiml>

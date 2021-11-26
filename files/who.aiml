@@ -57,6 +57,11 @@
     </category>
     
     <category>
+        <pattern>Age</pattern>
+        <template>Adults, and family.</template>
+    </category>
+    
+    <category>
         <pattern>Who are the staff </pattern>
         <template>In the institution, we have multidisciplinary team, whith teachers, nurses,  educator, psychologist, and different collaborators</template>
     </category>

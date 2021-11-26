@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+<pattern>Phone</pattern>
+<template> The phone number is 123456789</template>
+</category>
+
+<category>
+<pattern>_ Phone</pattern>
+<template><srai>Phone</srai></template>
+</category>
+
+<category>
+<pattern>Phone _</pattern>
+<template><srai>Phone</srai></template>
+</category>
+
+<category>
+<pattern>_ Phone *</pattern>
+<template><srai>Phone</srai></template>
+</category>
+</aiml>

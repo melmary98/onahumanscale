@@ -6,7 +6,17 @@
     </category>
     
     <category>
+        <pattern>What is your philosophy</pattern>
+        <template>Take time to know who you are and what you want to succeed in your project</template>
+    </category>
+    
+    <category>
         <pattern>* philosophy</pattern>
+        <template>Take time to know who you are and what you want to succeed in your project</template>
+    </category>
+    
+    <category>
+        <pattern>philosophy</pattern>
         <template>Take time to know who you are and what you want to succeed in your project</template>
     </category>
     
@@ -15,9 +25,8 @@
         <template>Experience sharing &amp; Intercultural exchange/Collective and individual responsibility/Respect and collaboration/Engagement &amp; involvement</template>
     </category>
     
-    
     <category>
-        <pattern>What are your values</pattern>
+        <pattern>values</pattern>
         <template>Experience sharing &amp; Intercultural exchange/Collective and individual responsibility/Respect and collaboration/Engagement &amp; involvement</template>
     </category>
     

@@ -20,10 +20,24 @@
         <template>we just strarted to propose decentralized workshps and individual interview in the local of our partnership.</template>
     </category>
     
-    
     <category>
         <pattern>activities</pattern>
         <template>we can propose differents workshops language and learning skills, psychology, well-being and motivation, social support </template>
+    </category>
+    
+    <category>
+        <pattern>workshops</pattern>
+        <template>we can propose differents workshops language and learning skills, psychology, well-being and motivation, social support </template>
+    </category>
+    
+    <category>
+        <pattern>admission</pattern>
+        <template>At the admission an interview will be propose to see together what you need and what we can propose</template>
+    </category>
+    
+    <category>
+        <pattern>entry</pattern>
+        <template>At the admission an interview will be propose to see together what you need and what we can propose</template>
     </category>
     
     <category>

@@ -2,16 +2,36 @@
 <aiml version="2.0">
 	<category>
         <pattern>Who are your partnership</pattern>
-        <template>We have different partnership, some company who give money, orther who can welcome migrants in intership</template>
+        <template>We have different partnership, some company who give money, orther who can welcome migrants in intership, and association</template>
     </category>
     
     <category>
         <pattern>partnership</pattern>
-        <template>We have different partnership, some company who give money, orther who can welcome migrants in intership</template>
+        <template>We have different partnership, some company who give money, orther who can welcome migrants in intership, and association </template>
     </category>
     
     <category>
         <pattern>partners</pattern>
-        <template>We have different partnership, some company who give money, orther who can welcome migrants in intership</template>
+        <template>We have different partnership, some company who give money, orther who can welcome migrants in intership, and association</template>
     </category>
+    
+    <category>
+        <pattern>example of partnership</pattern>
+        <template>On a Human scale, with culture du coeur propose free tickets to schows or sports matches
+        <image>
+           https://www.culturesducoeur.org/img/logo.png 
+        </image>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>example</pattern>
+        <template>On a Human scale, with culture du coeur propose free tickets to schows or sports matches
+        <image>
+           https://www.culturesducoeur.org/img/logo.png 
+        </image>
+        </template>
+    </category>
+    
+    
 </aiml>
