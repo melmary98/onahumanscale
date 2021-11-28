@@ -30,17 +30,24 @@
     </category>
     
     <category>
-        <pattern>* professional *</pattern>
+        <pattern>_ professional *</pattern>
         <template>In the institution, we have multidisciplinary team, whith teachers, nurses, educator, psychologist, and different collaborators </template>
     </category>
     
     <category>
-        <pattern>* profession *</pattern>
+        <pattern>_ profession *</pattern>
         <template>In the institution, we have multidisciplinary team, whith teachers, nurses, educator, psychologist, and different collaborators</template>            
     </category>
     
     <category>
         <pattern>Team</pattern>
+        <template>
+            In the institution, we have multidisciplinary team, whith teachers, nurses, educator, psychologist, and different collaborators
+        </template>            
+    </category>
+    
+    <category>
+        <pattern>_ Team *</pattern>
         <template>
             In the institution, we have multidisciplinary team, whith teachers, nurses, educator, psychologist, and different collaborators
         </template>            

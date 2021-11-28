@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+        <pattern>admission</pattern>
+        <template>
+            Migrants people can be admitted by the institution when they have a residence permit or when they sumit a file.
+            Resident migrants having difficulty accessing employment and training and integrating in France.   
+            At the admission an interview will be propose to see together what you need and what we can propose.
+        </template>
+    </category>
+        <category>
+        <pattern>admission *</pattern>
+        <template><srai>admission</srai></template>
+    </category>
+        <category>
+        <pattern>_ admission *</pattern>
+        <template><srai>admission</srai></template>
+    </category>
+    
+    <category>
+        <pattern>register</pattern>
+        <template><srai>admission</srai></template>
+    </category>
+        <category>
+        <pattern>register *</pattern>
+        <template><srai>admission</srai></template>
+    </category>
+    <category>
+        <pattern>_ register</pattern>
+        <template><srai>Admission</srai></template>
+    </category>
+    <category>
+        <pattern>_ register *</pattern>
+        <template><srai>Admission</srai></template>
+    </category>  
+    
+    <category>
+        <pattern>attend</pattern>
+        <template><srai>admission</srai></template>
+    </category>
+        <category>
+        <pattern>attend *</pattern>
+        <template><srai>admission</srai></template>
+    </category>
+    <category>
+        <pattern>_ attend</pattern>
+        <template><srai>Admission</srai></template>
+    </category>
+    <category>
+        <pattern>_ attend *</pattern>
+        <template><srai>Admission</srai></template>
+    </category>
+    
+  
+    <category>
+        <pattern>entry</pattern>
+        <template><srai>admission</srai></template>
+    </category>
+    <category>
+        <pattern>entry *</pattern>
+        <template><srai>admission</srai></template>
+    </category>
+    <category>
+        <pattern>_ entry </pattern>
+        <template><srai>Admission</srai></template>
+    </category>
+    <category>
+        <pattern>_ entry *</pattern>
+        <template><srai>Admission</srai></template>
+    </category>
+    
+</aiml>

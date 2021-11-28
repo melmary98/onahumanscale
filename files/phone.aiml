@@ -19,4 +19,24 @@
 <pattern>_ Phone *</pattern>
 <template><srai>Phone</srai></template>
 </category>
+
+<category>
+<pattern>call</pattern>
+<template> The phone number is 123456789</template>
+</category>
+
+<category>
+<pattern>_ call</pattern>
+<template><srai>Phone</srai></template>
+</category>
+
+<category>
+<pattern>call _</pattern>
+<template><srai>Phone</srai></template>
+</category>
+
+<category>
+<pattern>_ call *</pattern>
+<template><srai>Phone</srai></template>
+</category>
 </aiml>

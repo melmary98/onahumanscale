@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+	<category>
+<pattern>Mail</pattern>
+<template> our mail address is contact@gonahumanscale.fr</template>
+</category>
+
+<category>
+<pattern>_ Mail</pattern>
+<template><srai>Mail</srai></template>
+</category>
+
+<category>
+<pattern>Mail _</pattern>
+<template><srai>Mail</srai></template>
+</category>
+
+<category>
+<pattern>_ Mail *</pattern>
+<template><srai>Mail</srai></template>
+</category>
+
+	<category>
+<pattern>contact</pattern>
+<template> our mail address is contact@gonahumanscale.fr</template>
+</category>
+
+<category>
+<pattern>_ contactl</pattern>
+<template><srai>Mail</srai></template>
+</category>
+
+<category>
+<pattern>contact _</pattern>
+<template><srai>Mail</srai></template>
+</category>
+
+<category>
+<pattern>_ contact *</pattern>
+<template><srai>Mail</srai></template>
+</category>
+
+</aiml>
